@@ -7,5 +7,6 @@ fullStackPHPClassName("ATIVIDADES-01 JULHO 2020");
  */
 
 fullStackPHPClassSession("duplique se necessários para criar títulos", __LINE__);
+echo '<h1 class="alert alert-success">Tests</h1>';
 
 
