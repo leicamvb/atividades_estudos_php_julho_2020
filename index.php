@@ -6,7 +6,7 @@ fullStackPHPClassName("ATIVIDADES-01 JULHO 2020");
  * [ classe e objeto ] http://php.net/manual/pt_BR/language.oop5.basic.php
  */
 
-fullStackPHPClassSession("duplique se necessários para criar títulos", __LINE__);
-echo '<h1 class="alert alert-success">Tests</h1>';
-
-
+fullStackPHPClassSession("Exercicio 06", __LINE__);
+echo '<h2>6. Criar alguma funcionalidade para mostrar todos os cupons de descontos cadastrados  '
+   . 'e imprima na tela.</h2>';
+echo '<h1 class="alert alert-success">Resultado</h1>';
