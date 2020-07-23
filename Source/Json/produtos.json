@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"descricao": "Coca Cola 2Lt",
+        "punit": "9.20"
+    },
+    {
+		"id": 2,
+		"descricao": "Fanta Laranja 2Lt",
+        "punit": "8.45"
+    },
+    {
+		"id": 3,
+		"descricao": "Fanta Uva 2Lt",
+        "punit": "8.25"
+    },
+    {
+		"id": 4,
+		"descricao": "Coxinha de Frango",
+        "punit": "3.20"
+    },
+    {
+		"id": 5,
+		"descricao": "Pastel de Carne",
+        "punit": "5.80"
+    },
+    {
+		"id": 6,
+		"descricao": "Pastel de Flango",
+        "punit": "5.90"
+    },
+    {
+		"id": 7,
+		"descricao": "Pastel de Carne",
+        "punit": "3.20"
+    },
+    {
+		"id": 8,
+		"descricao": "Kibe",
+        "punit": "4.70"
+    },
+    {
+		"id": 9,
+		"descricao": "Risoli",
+        "punit": "2.20"
+    }
+]

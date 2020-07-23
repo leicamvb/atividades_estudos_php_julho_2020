@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+        "percentual": "10",
+        "ativo": true,
+        "dtEmissao": "2020-07-01",
+        "dtValidade": "2020-09-01"
+    },
+    {
+		"id": 2,
+        "percentual": "5",
+        "ativo": true,
+        "dtEmissao": "2020-07-01",
+        "dtValidade": "2020-09-01"
+    },
+    {
+		"id": 3,
+        "percentual": "15",
+        "ativo": true,
+        "dtEmissao": "2020-07-01",
+        "dtValidade": "2020-09-01"
+    }
+]

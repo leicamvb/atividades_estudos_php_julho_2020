@@ -1,5 +1,6 @@
 {
     "autoload": {
-        "psr-4": {"Source\\Models\\": "Source/" }
+        "psr-4": {"Source\\": "Source/" }
+  
     }
 }
