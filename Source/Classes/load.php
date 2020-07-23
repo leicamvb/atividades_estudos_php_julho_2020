@@ -12,7 +12,7 @@ $restaurante = new Source\Models\Restaurante();
 
 
 //Popula os Clientes
-$json = new Source\Classes\readJson(__DIR__ . '\..\Json\clientes.json');
+$json = new Source\Classes\readJson('Source/Json/clientes.json');
 foreach ($json->get() as $registro) :
    $clienteTemp = new Source\Models\Cliente();
    $clienteTemp->setCliente(
@@ -25,7 +25,7 @@ foreach ($json->get() as $registro) :
 endforeach;
 
 //Popula os Produtos
-$json = new Source\Classes\readJson(__DIR__ . '\..\Json\produtos.json');
+$json = new Source\Classes\readJson('Source/Json/produtos.json');
 foreach ($json->get() as $registro) :
    $produtoTemp = new Source\Models\Produto();
    $produtoTemp->setProduto(
@@ -38,7 +38,7 @@ endforeach;
 
 
 //Popula os Cupons de Desconto
-$json = new Source\Classes\readJson(__DIR__ . '\..\Json\cuponsDesconto.json');
+$json = new Source\Classes\readJson('Source/Json/cuponsDesconto.json');
 foreach ($json->get() as $registro) :
    $cupomDescontoTemp = new Source\Models\CupomDesconto();
    $cupomDescontoTemp->setCupomDesconto(
